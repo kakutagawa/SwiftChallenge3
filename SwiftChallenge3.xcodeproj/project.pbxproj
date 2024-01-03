@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D48A8022B453F03007FE6A7 /* SwiftChallenge3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8012B453F03007FE6A7 /* SwiftChallenge3App.swift */; };
-		1D48A8042B453F03007FE6A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8032B453F03007FE6A7 /* ContentView.swift */; };
+		1D48A8042B453F03007FE6A7 /* Challenge1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8032B453F03007FE6A7 /* Challenge1View.swift */; };
 		1D48A8062B453F06007FE6A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D48A8052B453F06007FE6A7 /* Assets.xcassets */; };
 		1D48A8092B453F06007FE6A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D48A8082B453F06007FE6A7 /* Preview Assets.xcassets */; };
 		1D48A8132B453F06007FE6A7 /* SwiftChallenge3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8122B453F06007FE6A7 /* SwiftChallenge3Tests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		1D48A7FE2B453F03007FE6A7 /* SwiftChallenge3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftChallenge3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D48A8012B453F03007FE6A7 /* SwiftChallenge3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftChallenge3App.swift; sourceTree = "<group>"; };
-		1D48A8032B453F03007FE6A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1D48A8032B453F03007FE6A7 /* Challenge1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1View.swift; sourceTree = "<group>"; };
 		1D48A8052B453F06007FE6A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D48A8082B453F06007FE6A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D48A80E2B453F06007FE6A7 /* SwiftChallenge3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftChallenge3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				1D48A8012B453F03007FE6A7 /* SwiftChallenge3App.swift */,
-				1D48A8032B453F03007FE6A7 /* ContentView.swift */,
+				1D48A8032B453F03007FE6A7 /* Challenge1View.swift */,
 				1D48A8052B453F06007FE6A7 /* Assets.xcassets */,
 				1D48A8072B453F06007FE6A7 /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D48A8042B453F03007FE6A7 /* ContentView.swift in Sources */,
+				1D48A8042B453F03007FE6A7 /* Challenge1View.swift in Sources */,
 				1D48A8022B453F03007FE6A7 /* SwiftChallenge3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
