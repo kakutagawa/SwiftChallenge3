@@ -14,6 +14,7 @@
 		1D48A8132B453F06007FE6A7 /* SwiftChallenge3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8122B453F06007FE6A7 /* SwiftChallenge3Tests.swift */; };
 		1D48A81D2B453F06007FE6A7 /* SwiftChallenge3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A81C2B453F06007FE6A7 /* SwiftChallenge3UITests.swift */; };
 		1D48A81F2B453F06007FE6A7 /* SwiftChallenge3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A81E2B453F06007FE6A7 /* SwiftChallenge3UITestsLaunchTests.swift */; };
+		1D48A82C2B454641007FE6A7 /* Challenge2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A82B2B454641007FE6A7 /* Challenge2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1D48A8182B453F06007FE6A7 /* SwiftChallenge3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftChallenge3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D48A81C2B453F06007FE6A7 /* SwiftChallenge3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftChallenge3UITests.swift; sourceTree = "<group>"; };
 		1D48A81E2B453F06007FE6A7 /* SwiftChallenge3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftChallenge3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1D48A82B2B454641007FE6A7 /* Challenge2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				1D48A8012B453F03007FE6A7 /* SwiftChallenge3App.swift */,
 				1D48A8032B453F03007FE6A7 /* Challenge1View.swift */,
+				1D48A82B2B454641007FE6A7 /* Challenge2View.swift */,
 				1D48A8052B453F06007FE6A7 /* Assets.xcassets */,
 				1D48A8072B453F06007FE6A7 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				1D48A8042B453F03007FE6A7 /* Challenge1View.swift in Sources */,
 				1D48A8022B453F03007FE6A7 /* SwiftChallenge3App.swift in Sources */,
+				1D48A82C2B454641007FE6A7 /* Challenge2View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
